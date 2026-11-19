@@ -1,0 +1,15 @@
+.container_flex {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: DodgerBlue;
+  padding: 10px;
+}
+
+.container_flex div {
+  background-color: #f1f1f1;
+  width: 100px;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  font-size: 30px;
+}
